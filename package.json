@@ -23,7 +23,7 @@
 	"devDependencies": { },
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/arieljake/burst-trie.git"
+		"url": "git://github.com/arieljake/graph-algos.git"
 	},
 	"license": "MIT"
 }
