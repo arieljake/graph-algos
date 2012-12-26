@@ -1,0 +1,29 @@
+{
+	"name": "graph-algos",
+	"description": "js graph algos",
+	"version": "0.1.0",
+	"author": "Ariel Jakobovits <arieljake@yahoo.com>",
+	"contributors": [
+		{
+			"name": "Ariel Jakobovits",
+			"email": "arieljake@yahoo.com"
+		}
+	],
+	"keywords": [
+		"graph",
+		"algorithm",
+		"search"
+	],
+	"engines": {
+		"node": ">= 0.8"
+	},
+	"dependencies": {
+		"underscore.string": "~2.2.0rc"
+	},
+	"devDependencies": { },
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/arieljake/burst-trie.git"
+	},
+	"license": "MIT"
+}
